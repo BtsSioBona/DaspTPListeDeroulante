@@ -1,1 +1,9 @@
 c:\users\rahmane.a\documents\visual studio 2015\Projects\TPListeDeroulante\TPListeDeroulante\bin\Debug\TPListeDeroulante.exe.config
+c:\users\rahmane.a\documents\visual studio 2015\Projects\TPListeDeroulante\TPListeDeroulante\bin\Debug\TPListeDeroulante.exe
+c:\users\rahmane.a\documents\visual studio 2015\Projects\TPListeDeroulante\TPListeDeroulante\bin\Debug\TPListeDeroulante.pdb
+c:\users\rahmane.a\documents\visual studio 2015\Projects\TPListeDeroulante\TPListeDeroulante\obj\Debug\TPListeDeroulante.csprojResolveAssemblyReference.cache
+c:\users\rahmane.a\documents\visual studio 2015\Projects\TPListeDeroulante\TPListeDeroulante\obj\Debug\TPListeDeroulante.FrmListeSimple.resources
+c:\users\rahmane.a\documents\visual studio 2015\Projects\TPListeDeroulante\TPListeDeroulante\obj\Debug\TPListeDeroulante.Properties.Resources.resources
+c:\users\rahmane.a\documents\visual studio 2015\Projects\TPListeDeroulante\TPListeDeroulante\obj\Debug\TPListeDeroulante.csproj.GenerateResource.Cache
+c:\users\rahmane.a\documents\visual studio 2015\Projects\TPListeDeroulante\TPListeDeroulante\obj\Debug\TPListeDeroulante.exe
+c:\users\rahmane.a\documents\visual studio 2015\Projects\TPListeDeroulante\TPListeDeroulante\obj\Debug\TPListeDeroulante.pdb
