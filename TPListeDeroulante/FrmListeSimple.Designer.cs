@@ -108,6 +108,7 @@
             this.btnAffiche.TabIndex = 2;
             this.btnAffiche.Text = "Afficher sélection";
             this.btnAffiche.UseVisualStyleBackColor = true;
+            this.btnAffiche.Click += new System.EventHandler(this.btnAffiche_Click);
             // 
             // btnSupprimer
             // 
@@ -158,6 +159,7 @@
             this.Controls.Add(this.grpBoxSelection);
             this.Name = "FrmListeSimple";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.FrmListeSimple_Load);
             this.grpBoxSelection.ResumeLayout(false);
             this.grpBoxSelection.PerformLayout();
             this.ResumeLayout(false);
